@@ -39,7 +39,7 @@ public class FilesService {
     }
 
     private String getFileName(){
-        System.out.println("podaj nazwe pliku do rozwiazania pomijajac rozszezenie");
+        System.out.println("podaj nazwe pliku do rozwiazania pomijajac rozszerzenie");
         return scanner.nextLine();
     }
 
